@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "wasmedge-rt",
+    "wasmedge-runtime-rs",
+    "wasmedge-runtime-sys",
+    "wasmedge-sdk",
+    "wedge-rs",
+    "wedge-sys",
+]

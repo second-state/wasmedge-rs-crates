@@ -1,0 +1,9 @@
+[package]
+name = "wedge-rs"
+version = "0.0.0"
+edition = "2018"
+readme = "../README.md"
+license = "Apache-2.0"
+description = "A candidate crate for wasmedge"
+
+[dependencies]
